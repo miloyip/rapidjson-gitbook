@@ -1,1 +1,1 @@
-{% include "git+https://github.com/miloyip/rapidjson.git/README.md" %}
+{% include "git+https://github.com/miloyip/rapidjson.git/readme.md" %}
