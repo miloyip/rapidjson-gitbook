@@ -1,5 +1,5 @@
 # Summary
 
-* [Features](../doc/features.md)
-* [Tutorial](../doc/tutorial.md)
+* [Features](features.md)
+* [Tutorial](tutorial.md)
 
