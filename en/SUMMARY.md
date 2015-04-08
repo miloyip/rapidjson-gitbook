@@ -1,4 +1,5 @@
 # Summary
 
-* [Features](features.md)
-* [Tutorial](git+https://github.com/miloyip/rapidjson.git/doc/tutorial.md)
+* [Features](../doc/features.md)
+* [Tutorial](../doc/tutorial.md)
+
